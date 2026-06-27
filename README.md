@@ -33,7 +33,7 @@ Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through them
 
 ## Additional Sources Summary
 
-| Sheet | Paper | Guidelines |
+| Sheets in Excel | Paper | Guidelines |
 |-------|-------|-----------|
 | 23\_Why Johny can't prompt | Zamfirescu-Pereira et al. (CHI 2023) | G213–G228 (16) |
 | 24\_Clochat | Ha et al. (CHI 2024) | G229–G236 (8) |
@@ -49,4 +49,4 @@ Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through them
 
 ## Contact
 
-For questions, contact: [your email]
+For questions, contact: [muntasirsunny05@gmail.com]
