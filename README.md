@@ -2,9 +2,9 @@
 
 This repository contains supplementary materials for the paper:
 
-> **[Your Paper Title]**  
-> [Author Names]  
-> Published in: Springer LNCS, [Venue], [Year]
+> **Developing LLM-Specific Usability Heuristics: Revealing Critical Gaps in Ethical Design and Safety Protections**  
+> Md. Muntasir Shofiq, Farisha Hussain, Rabbi Mushad, Nasreen Azad and Muhammad Nazrul Islam 
+> Accepted in: I3E 2026 Conference
 
 ---
 
@@ -24,10 +24,10 @@ In addition to the primary guideline sources (Microsoft HAX, IBM Design for AI, 
 
 Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through thematic analysis. The Excel file contains one sheet per source paper, with columns:
 
-- **ID** — Source-specific identifier (e.g., J1, K1)
-- **Guideline's ID** — Global unique identifier (G213–G283)
-- **Guideline** — Full guideline text
-- **Code\_1, Code\_2, Code\_3** — Thematic codes assigned during analysis
+- **ID**: Source-specific identifier (e.g., J1, K1)
+- **Guideline's ID**: Global unique identifier (G213–G283)
+- **Guideline**: Full guideline text
+- **Code\_1, Code\_2, Code\_3**: Thematic codes assigned during analysis
 
 ---
 
