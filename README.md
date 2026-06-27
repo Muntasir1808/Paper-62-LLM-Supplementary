@@ -2,8 +2,8 @@
 
 This repository contains supplementary materials for the paper:
 
-> **Developing LLM-Specific Usability Heuristics: Revealing Critical Gaps in Ethical Design and Safety Protections**  
-> Md. Muntasir Shofiq, Farisha Hussain, Rabbi Mushad, Nasreen Azad and Muhammad Nazrul Islam 
+> Paper Title: **Developing LLM-Specific Usability Heuristics: Revealing Critical Gaps in Ethical Design and Safety Protections.**  
+> Authors' Names: Md. Muntasir Shofiq, Farisha Hussain, Rabbi Mushad, Nasreen Azad and Muhammad Nazrul Islam 
 > Accepted in: I3E 2026 Conference
 
 ---
