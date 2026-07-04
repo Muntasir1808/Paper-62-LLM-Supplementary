@@ -20,12 +20,12 @@ This repository contains supplementary materials for the paper:
 
 ## Overview
 
-In addition to the primary guideline sources (Microsoft HAX, IBM Design for AI, Google PAIR, Apple HIG), **71 additional guidelines** were extracted from **8 research papers** published at CHI, FAccT, and arXiv (2019–2024).
+In addition to the primary guideline sources (Microsoft HAX, IBM Design for AI, Google PAIR, Apple HIG), **71 additional guidelines** were extracted from **8 research papers** published at CHI, FAccT, and arXiv (2019–2024). 
 
 Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through thematic analysis. The Excel file contains one sheet per source paper, with columns:
 
 - **ID**: Source-specific identifier (e.g., J1, K1)
-- **Guideline's ID**: Global unique identifier (G213–G283)
+- **Guideline's ID**: Global unique identifier (G1–G283)
 - **Guideline**: Full guideline text
 - **Code\_1, Code\_2, Code\_3**: Thematic codes assigned during analysis
 
@@ -47,7 +47,7 @@ Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through them
 | Understanding\_UX\_LLM\_2024 | Wang et al. (arXiv 2024) | G263–G267 (5) |
 | "As an AI language"\_2024| Wester et al. (CHI 2024) | G268–G275 (8) |
 | Resilient\_2029 | Ashktorab et al. (CHI 2019) | G276–G283 (8) |
-| **Total** | | **71** |
+| **Total** | | **283** |
 
 ---
 
