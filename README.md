@@ -35,14 +35,18 @@ Each guideline was assigned three codes (Code\_1, Code\_2, Code\_3) through them
 
 | Sheets in Excel | Paper | Guidelines |
 |-------|-------|-----------|
-| 23\_Why Johny can't prompt | Zamfirescu-Pereira et al. (CHI 2023) | G213–G228 (16) |
-| 24\_Clochat | Ha et al. (CHI 2024) | G229–G236 (8) |
-| 24\_I'm\_not\_sure | Kim et al. (FAccT 2024) | G237–G246 (10) |
-| 24\_It's\_a\_fair\_game | Zhang et al. (CHI 2024) | G247–G256 (10) |
-| 24\_My\_agent\_understands\_me | Hou et al. (CHI EA 2024) | G257–G262 (6) |
-| 24\_Understanding\_UX\_LLM | Wang et al. (arXiv 2024) | G263–G267 (5) |
-| 24\_"As an AI language" | Wester et al. (CHI 2024) | G268–G275 (8) |
-| 19\_Resilient | Ashktorab et al. (CHI 2019) | G276–G283 (8) |
+| Microsoft's HAI Guidelines\_2019 | Amershi et al. (CHI 2019) | G1–G18 (18) |
+| IBM's AI Guidelines\_2019  | IBM Design for AI (2019) | G19–G44 (26) |
+| Google Pair\_2019 | Google Research (2019) | G45–G156 (112) |
+| Apple HIG\_2019 | Human Interface Guidelines: Machine Learning (2019) | G157–G212 (56) |
+| Why Johny can't prompt\_2023 | Zamfirescu-Pereira et al. (CHI 2023) | G213–G228 (16) |
+| Clochat\_2024 | Ha et al. (CHI 2024) | G229–G236 (8) |
+| I'm\_not\_sure, But\_2024| Kim et al. (FAccT 2024) | G237–G246 (10) |
+| It's\_a\_fair\_game\_2024 | Zhang et al. (CHI 2024) | G247–G256 (10) |
+| My\_agent\_understands\_me\_2024 | Hou et al. (CHI EA 2024) | G257–G262 (6) |
+| Understanding\_UX\_LLM\_2024 | Wang et al. (arXiv 2024) | G263–G267 (5) |
+| "As an AI language"\_2024| Wester et al. (CHI 2024) | G268–G275 (8) |
+| Resilient\_2029 | Ashktorab et al. (CHI 2019) | G276–G283 (8) |
 | **Total** | | **71** |
 
 ---
